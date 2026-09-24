@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "build": 5,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-Admin-Setup-v1.0.4.exe",
-  "sha256": "04E04B76E59D37E466E54C0AB36ACC3A20FF5EEC002E7771F43B24900E9D60B2",
-  "releaseNotes": "Initial updater-enabled release"
+  "version": "1.0.5",
+  "build": 6,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-Admin-Setup-v1.0.5-test.exe",
+  "sha256": "BD4C5CF5FDBDD3F3F4DF742424BD422973EBDA90907EAF6D78F99B5ECC81222E",
+  "releaseNotes": "TEST ONLY: verify Windows update flow"
 }
