@@ -1,7 +1,7 @@
 {
   "version": "1.0.5",
   "build": 6,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-POS-Setup-v1.0.5-test.exe",
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-POS-Setup-v1.0.5-progress-test.exe",
   "sha256": "BE0125466779A88E769DB372D0D13B47E741AE62D87735646229479357A23023",
   "releaseNotes": "TEST ONLY: verify update progress percentage"
 }
