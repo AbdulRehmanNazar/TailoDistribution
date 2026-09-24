@@ -1,0 +1,7 @@
+{
+  "version": "1.0.4",
+  "build": 5,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-POS-Setup-v1.0.4.exe",
+  "sha256": "FE2406D658EF425AAF71DFEC284A133A949C796B160365B9C1B514D452BE5B65",
+  "releaseNotes": "Initial updater-enabled release"
+}
