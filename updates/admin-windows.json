@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "build": 7,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-Admin-Setup-v1.0.6-progress-test.exe",
-  "sha256": "4F6138BFECB3A4A7268519C02A2F4A9E6A9CD355E2F5F1CF3FDFD414AE97E0FB",
+  "version": "1.0.7",
+  "build": 8,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-Admin-Setup-v1.0.7-progress-test.exe",
+  "sha256": "471748600EFB38531D5FA88F5DB6BCF83648AF3456BC0C6DCC1E4F8D604E5E93",
   "releaseNotes": "TEST ONLY: verify update progress percentage"
 }
