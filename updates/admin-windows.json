@@ -1,7 +1,7 @@
 {
-  "sha256": "756fe14c123ed7ccdd3c69bdad6193de3920a3093aa312ff2a67c02322fea8a6",
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-Admin-Setup-v1.1.1.exe",
-  "releaseNotes": "Pending production payments dialog and production staff summary improvements.",
-  "version": "1.1.1",
-  "build": 10
+  "build": 11,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/1.1.2/Tailo-Admin-Setup-v1.1.2.exe",
+  "version": "1.1.2",
+  "sha256": "3f395aafcea80e88d7fd3bc1b27da34d013a577bfe3911943cfe4113c1a10b2b",
+  "releaseNotes": "Photo upload status handling and improved measurement draft validation."
 }

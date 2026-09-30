@@ -1,7 +1,7 @@
 {
-  "sha256": "266b5f4ff0b6b54e76562a6548f5b7f17bbaa191ccad3217cb5f685ef562a289",
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-POS-Setup-v1.1.1.exe",
-  "releaseNotes": "Pending production payments dialog and production staff summary improvements.",
-  "version": "1.1.1",
-  "build": 10
+  "build": 11,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20POS/1.1.2/Tailo-POS-Setup-v1.1.2.exe",
+  "version": "1.1.2",
+  "sha256": "50d94115ebce3c47312b639addc8b8f16962713a791de15010bcc926873518ba",
+  "releaseNotes": "Photo upload status handling and improved measurement draft validation."
 }
