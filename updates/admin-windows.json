@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "build": 9,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-Admin-Setup-v1.1.0.exe",
-  "sha256": "77dadc2d14453a2b3ea2fa42cbee039859fa3db5cf43d32f09137c5017b40955",
-  "releaseNotes": "Factory workflow and data export improvements, plus automatic Windows updates."
+  "sha256": "756fe14c123ed7ccdd3c69bdad6193de3920a3093aa312ff2a67c02322fea8a6",
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-Admin-Setup-v1.1.1.exe",
+  "releaseNotes": "Pending production payments dialog and production staff summary improvements.",
+  "version": "1.1.1",
+  "build": 10
 }

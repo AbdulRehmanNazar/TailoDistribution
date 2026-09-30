@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "build": 9,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-POS-Setup-v1.1.0.exe",
-  "sha256": "6e42b67ea7c4b89bf9ec1884a28b5ddc93f64835c7c05e4b0806f3dc1af99cf2",
-  "releaseNotes": "Customer profile and direct invoice improvements, plus automatic Windows updates."
+  "sha256": "266b5f4ff0b6b54e76562a6548f5b7f17bbaa191ccad3217cb5f685ef562a289",
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-POS-Setup-v1.1.1.exe",
+  "releaseNotes": "Pending production payments dialog and production staff summary improvements.",
+  "version": "1.1.1",
+  "build": 10
 }
