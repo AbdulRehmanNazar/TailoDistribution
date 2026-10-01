@@ -1,7 +1,7 @@
 {
-  "build": 11,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/1.1.2/Tailo-Admin-Setup-v1.1.2.exe",
-  "version": "1.1.2",
-  "sha256": "3f395aafcea80e88d7fd3bc1b27da34d013a577bfe3911943cfe4113c1a10b2b",
-  "releaseNotes": "Photo upload status handling and improved measurement draft validation."
+  "version": "1.1.3",
+  "build": 12,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.1.3/Tailo-Admin-Setup-v1.1.3.exe",
+  "sha256": "4fd329550f34ee90789b8200e00410664aba23787cda6151e3892c0b9381ecbc",
+  "releaseNotes": "Latest Windows build with branch and staff workflow updates, realtime synchronization improvements, and updated app version reporting."
 }
