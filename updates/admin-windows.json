@@ -1,7 +1,7 @@
 {
-  "version": "1.1.3",
-  "build": 12,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.1.3/Tailo-Admin-Setup-v1.1.3.exe",
-  "sha256": "4fd329550f34ee90789b8200e00410664aba23787cda6151e3892c0b9381ecbc",
-  "releaseNotes": "Latest Windows build with branch and staff workflow updates, realtime synchronization improvements, and updated app version reporting."
+  "version": "1.1.4",
+  "build": 13,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.1.4/Tailo-Admin-Setup-v1.1.4.exe",
+  "sha256": "61d8ec624e628a918f1d52813f8f4aaacadb849fd56b7bd13fc0d53e3a816323",
+  "releaseNotes": "Windows 1.1.4: reports and PDF export, invoice updates, customer search, and decimal input improvements. Known limitation: branch-filtered cancelled-orders reports require a separate backend update."
 }
