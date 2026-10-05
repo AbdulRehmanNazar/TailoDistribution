@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
-  "build": 13,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20POS/windows/1.1.4/Tailo-POS-Setup-v1.1.4.exe",
-  "sha256": "636db6e22bcd8a5345d2c705b65dd85c8f3459019e8064f2671a2c77299e44f3",
-  "releaseNotes": "Windows 1.1.4: reports and PDF export, invoice updates, customer search, and decimal input improvements. Known limitation: branch-filtered cancelled-orders reports require a separate backend update."
+  "version": "1.1.5",
+  "build": 14,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-POS-Setup-v1.1.5.exe",
+  "sha256": "89946660da5b0c5db0eccbdb3872fe313ded1a2ec502f8d7491f60a7fd46eda2",
+  "releaseNotes": "Tailo Windows release 1.1.5."
 }
