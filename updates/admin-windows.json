@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "build": 14,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo-Admin-Setup-v1.1.5.exe",
-  "sha256": "2ef1ba7851a079cfb669a2c8c8e212bfc7ea6045dc19b05ca596d5f3a4d000d8",
-  "releaseNotes": "Tailo Windows release 1.1.5."
+  "version": "1.1.6",
+  "build": 15,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.1.6/Tailo-Admin-Setup-v1.1.6.exe",
+  "sha256": "558c18465b481bae37bf005d3eaa4aca7dac28c246dc16b6dbde120feef03eb3",
+  "releaseNotes": "Money formatting, cancellation status handling, and direct invoice sales summary improvements."
 }
