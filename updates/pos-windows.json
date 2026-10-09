@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
-  "build": 15,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20POS/windows/1.1.6/Tailo-POS-Setup-v1.1.6.exe",
-  "sha256": "2faa18b536f42adaf1decc2a4a2685feeb9d740293a646c38c15373d74d8eb0e",
-  "releaseNotes": "Money formatting, cancellation status handling, and direct invoice sales summary improvements."
+  "version": "1.1.7",
+  "build": 16,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20POS/windows/1.1.7/Tailo-POS-Setup-v1.1.7.exe",
+  "sha256": "F26BE94504E286351635414F8BF35F62A3072A2464E753F27B7C9914CBFDE6DE",
+  "releaseNotes": "Windows POS 1.1.7 release."
 }
