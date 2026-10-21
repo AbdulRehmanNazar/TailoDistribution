@@ -1,7 +1,1 @@
-{
-  "version": "1.2.0",
-  "build": 19,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.2.0/Tailo-Admin-Setup-v1.2.0.exe",
-  "sha256": "eaf13b3ec624191a909b361be8eaff2c8f983bda6c33e43d4e2f68df3555aa1a",
-  "releaseNotes": "Windows Admin 1.2.0 release."
-}
+{"version":"1.2.1","build":20,"installerUrl":"https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.2.1/Tailo-Admin-Setup-v1.2.1.exe","sha256":"190832a9bc6b218fa6fd8b6a1c23dcf0124d6036c184848544c70432d008e8be","releaseNotes":"Windows Admin 1.2.1 release."}

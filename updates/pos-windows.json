@@ -1,7 +1,1 @@
-{
-  "version": "1.2.0",
-  "build": 19,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20POS/windows/1.2.0/Tailo-POS-Setup-v1.2.0.exe",
-  "sha256": "cda4165d66b9fe712ea034cc302c30fecd31ea22aa804298a350abe2984afc18",
-  "releaseNotes": "Windows POS 1.2.0 release."
-}
+{"version":"1.2.1","build":20,"installerUrl":"https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20POS/windows/1.2.1/Tailo-POS-Setup-v1.2.1.exe","sha256":"62c1fd19cd96ecae111d1abacf65acb4c14fd21db486babe8c2ed162a052d78a","releaseNotes":"Windows POS 1.2.1 release."}
