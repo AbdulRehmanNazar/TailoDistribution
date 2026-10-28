@@ -1,1 +1,7 @@
-{"sha256":"5fec4620504b65771dd562431d35248168413b6d3528190b7efea666b505aa82","build":21,"installerUrl":"https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.2.2/Tailo-Admin-Setup-v1.2.2.exe","releaseNotes":"Windows Admin 1.2.2 release.","version":"1.2.2"}
+{
+  "version": "1.2.3",
+  "build": 22,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.2.3/Tailo-Admin-Setup-v1.2.3.exe",
+  "sha256": "8616f75313018bd4b0cd975a5e7c92c0b22bb095cfb5048bfad083a57db96e5a",
+  "releaseNotes": "Admin 1.2.3 release: searchable inventory color selection for add and edit."
+}
