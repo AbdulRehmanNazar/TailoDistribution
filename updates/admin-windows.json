@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "build": 23,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.2.4/Tailo-Admin-Setup-v1.2.4.exe",
-  "sha256": "71a90a74d6c1de14899813f42f0ffdead1288a033ed2dba0be7cb77ef77db0a1",
-  "releaseNotes": "Admin 1.2.4 release: inventory stock and transfer printing with bilingual PDF details."
+  "version": "1.2.5",
+  "build": 24,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.2.5/Tailo-Admin-Setup-v1.2.5.exe",
+  "sha256": "36430ca7517c00f5de2e2e8e405ba1ea54a1e90f29543254bebc000b548dd313",
+  "releaseNotes": "Admin 1.2.5 release: optional inventory print reference number and print timestamp in PDF."
 }
