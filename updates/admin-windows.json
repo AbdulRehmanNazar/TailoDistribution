@@ -1,7 +1,7 @@
 {
-  "version": "1.2.5",
-  "build": 24,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.2.5/Tailo-Admin-Setup-v1.2.5.exe",
-  "sha256": "36430ca7517c00f5de2e2e8e405ba1ea54a1e90f29543254bebc000b548dd313",
-  "releaseNotes": "Admin 1.2.5 release: optional inventory print reference number and print timestamp in PDF."
+  "version": "1.2.6",
+  "build": 25,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.2.6/Tailo-Admin-Setup-v1.2.6.exe",
+  "sha256": "1a96ddf276abf48922b39b456b35482d5cf7c54950b13da4f34599ce5c6b01e9",
+  "releaseNotes": "Admin 1.2.6 release: inventory records now show created date and time."
 }
