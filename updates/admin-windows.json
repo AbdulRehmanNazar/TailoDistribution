@@ -1,7 +1,7 @@
 {
-  "version": "1.2.6",
-  "build": 25,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.2.6/Tailo-Admin-Setup-v1.2.6.exe",
-  "sha256": "1a96ddf276abf48922b39b456b35482d5cf7c54950b13da4f34599ce5c6b01e9",
-  "releaseNotes": "Admin 1.2.6 release: inventory records now show created date and time."
+  "version": "1.2.7",
+  "build": 26,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20Admin/windows/1.2.7/Tailo-Admin-Setup-v1.2.7.exe",
+  "sha256": "174cafa04bb53489c6df949fce3e585b2beae059cb6154348c485a7189646d31",
+  "releaseNotes": "Admin 1.2.7 release: organization and branch account management updates."
 }
