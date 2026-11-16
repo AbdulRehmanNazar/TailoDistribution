@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
-  "build": 22,
-  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20POS/windows/1.2.3/Tailo-POS-Setup-v1.2.3.exe",
-  "sha256": "2487be50dea6894409621f6f58469354aa795ed8f97f61d83f6934d754bbeaf6",
-  "releaseNotes": "POS 1.2.3 release: WhatsApp order receipts, connector setup, and reconnect handling."
+  "version": "1.2.4",
+  "build": 23,
+  "installerUrl": "https://raw.githubusercontent.com/AbdulRehmanNazar/TailoDistribution/main/installers/Tailo%20POS/windows/1.2.4/Tailo-POS-Setup-v1.2.4.exe",
+  "sha256": "d4ec414e6ee3d8f518a41bb00ac73e4d9628c4ebd4cf547e68b6bf8edaa53bc2",
+  "releaseNotes": "POS 1.2.4 release: clear WhatsApp connection status and Windows refresh, suggested Book ID acceptance, and WhatsApp order receipt improvements."
 }
